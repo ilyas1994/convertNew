@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textview_your_sum">Ваша сумма</string>
+    <string name="edit_text_hint_sum">Сумма</string>
+    <string name="text_view_dollar_rate">Курс USD</string>
+    <string name="button_calculate">Рассчитать</string>
+</resources>

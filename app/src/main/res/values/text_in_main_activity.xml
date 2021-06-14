@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_usd_qually">1 usd = </string>
+    <string name="currency_usd">KZT</string>
+    <string name="toast_go_to_settings">Перейдите в настройки</string>
+    <string name="tenge">Тенге</string>
+    <string name="go_to_settings">Перейдите в настройки</string>
+</resources>
